@@ -2,4 +2,4 @@ var playlist = {
   artist: "Maroon 5", 
   song: "Sugar"};
   
-function 
+function updatePlaylist()
